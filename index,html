@@ -1,17 +1,20 @@
 <html>
     <head>  
         <title>C0bra129 Productions</title>
-        <meta name="Description" content="Your San Antonio Talent Headquarters"
+        <meta name="Description" content="Your San Antonio Talent Headquarters">
     </head>
 
     <body>
         <nav>
-            <a><img src="Images/Logo.png" alt="C0bra129 Productions Logo" width="200" height="200"></a>
-             <a href="index.html">Home</a>
-             <a href="About.html">About</a>
-             <a href="Contact.html">Contact</a>
-             <a href="Services.html">Services</a>
-             <a href="Portfolio.html">Portfolio</a>
+            <a href="index.html" title="Go to the homepage">
+                <img src="Images/logo.svg" alt="C0bra129-Productions Logo" width="200" height="200">
+                <ul>Home</ul>
+            </a>
+            <a href="index.html">Home</a>
+            <a href="About.html">About</a>
+            <a href="Contact.html">Contact</a>
+            <a href="Services.html">Services</a>
+            <a href="Portfolio.html">Portfolio</a>
         </nav>
         <footer>
             <p>&copy; 2023 C0bra129 Productions. All rights reserved.</p>
